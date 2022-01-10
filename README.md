@@ -1,6 +1,7 @@
 # open-sdf-net
 
 This is a neural network approximating the truncated signed distance function of open curves.
+It is an improvement of https://github.com/mintpancake/2d-sdf-net, which adds support for open curves. 
 
 ### Requirements
 
