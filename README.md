@@ -5,9 +5,21 @@ It is an improvement of https://github.com/mintpancake/2d-sdf-net, which adds su
 
 ### Intro
 
-#### Previous challenges
+#### Previous challenges: Outliers
 
 <div align=center><img src="https://raw.githubusercontent.com/mintpancake/gallery/main/images/problems.png"/></div>
+
+#### Solution to type 1 outliers
+
+<div align=center><img src="https://raw.githubusercontent.com/mintpancake/gallery/main/images/outlier1.png"/></div>
+
+#### Solution to type 2 outliers
+
+<div align=center><img src="https://raw.githubusercontent.com/mintpancake/gallery/main/images/outlier2.png"/></div>
+
+#### Final results
+
+<div align=center><img src="https://raw.githubusercontent.com/mintpancake/gallery/main/images/open_tsdf_res.png"/></div>
 
 ### Requirements
 
