@@ -2,6 +2,8 @@
 
 This is a neural network approximating the truncated signed distance function of open curves.
 
+### Intro
+
 ### Requirements
 
 * PyTorch
