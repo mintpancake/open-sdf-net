@@ -5,6 +5,10 @@ It is an improvement of https://github.com/mintpancake/2d-sdf-net, which adds su
 
 ### Intro
 
+#### Previous challenges
+
+<div align=center><img src="https://raw.githubusercontent.com/mintpancake/gallery/main/images/problems.png"/></div>
+
 ### Requirements
 
 * PyTorch
